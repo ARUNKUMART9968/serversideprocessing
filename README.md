@@ -131,9 +131,9 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![Output](out put image.jpg)
+![Output](out.jpg)
 ### HomePage:
-![HomePage](area of rectangel.jpg)
+![HomePage](rec.jpg)
 
 ## Result:
 The program for implementing server side processing is completed.
