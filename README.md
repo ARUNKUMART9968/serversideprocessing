@@ -131,7 +131,7 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![Output](out.jpg)
+![OutPut](arun/out.jpg)  
 ### HomePage:
 ![HomePage](rec.jpg)
 
